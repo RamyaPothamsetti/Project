@@ -26,7 +26,7 @@ let myFirstJob = "Coder";
 let myCurrentJob = "Teacher";
 
 let job1 = "programmer";
-let job2 = "teacher";
+let job2 = "Developer";
 
 console.log(myFirstJob);
 
